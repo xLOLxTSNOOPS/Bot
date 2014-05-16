@@ -42,8 +42,8 @@ OmniBot.admins = ["5341e2173e083e5ca557e884"];
 
 // Random announcements.
 var announcements = 
-["Make sure you share the room with your friends!"];
-[“Make sure you woot!”];
+["Make sure you share the room with your friends!"]
+[“Make sure you woot!”]
 [“Make sure you follow all the rules and respect the staff!”];
 
 // Keywords of blocked songs
