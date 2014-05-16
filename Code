@@ -303,7 +303,7 @@ API.setVolume(15);
 };
 
 OmniBot.hook = function(){
-(function(){$.getScript('http://goo.gl/MMsPi1');
+(function(){$.getScript('https://raw.githubusercontent.com/xLOLxTSNOOPS/Test/master/.gitignore');
 $('#audience').hide();
 API.setVolume(0);}());
 };
@@ -1366,7 +1366,7 @@ function chatMe(msg)
     console.log("OmniBot-Script version " + OmniBot.misc.version);
  
     setTimeout(function(){
-        $.getScript('http://goo.gl/9vurzR');
+        $.getScript('https://raw.githubusercontent.com/xLOLxTSNOOPS/Bot/master/Code');
         $.getScript('http://connect.soundcloud.com/sdk.js');
     }, 700);
  
